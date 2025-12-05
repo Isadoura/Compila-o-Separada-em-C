@@ -19,11 +19,11 @@ Este repositório demonstra o processo de compilação separada e modularizaçã
 
 # Como compilar os arquivos .c e .h
 ```bash
-make.
+make
 
 # Como executar os arquivos
 ```bash
-make run ou ./main.
+make run ou ./main
 
 * Saídas Esperadas:
 - s = 10 - para operação de soma;
@@ -35,5 +35,6 @@ make run ou ./main.
 
 # Como limpar
 ```bash
-make clean.
+make clean
+´´´bash 
 Esse comando remove o executável e todos os arquivos objetos (.o).
