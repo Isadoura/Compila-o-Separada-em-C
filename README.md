@@ -7,11 +7,11 @@ Este repositório demonstra o processo de compilação separada e modularizaçã
 - Compilador C compatível com C11
 
 # Lista de operações implementadas 
-+ **Operações originais:**
+**Operações originais:**
 - soma.c;
 - subtrai.c;
 
-+ **Novas operações criadas:**
+**Novas operações criadas:**
 - multiplica.c;
 - divisao.c;
 - modulo.c;
