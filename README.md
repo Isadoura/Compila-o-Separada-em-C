@@ -7,15 +7,15 @@ Este repositório demonstra o processo de compilação separada e modularizaçã
 - Compilador C compatível com C11
 
 # Lista de operações implementadas 
-**Operações originais:**
--soma.c;
+* **Operações originais:**
+- soma.c;
 - subtrai.c;
 
-**Novas operações criadas:**
--multiplica.c;
--divisao.c;
--modulo.c;
--minimo.c;
+* **Novas operações criadas:**
+- multiplica.c;
+- divisao.c;
+- modulo.c;
+- minimo.c;
 
 # Como compilar os arquivos .c e .h
 ```bash
