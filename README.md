@@ -7,21 +7,23 @@ Este repositório demonstra o processo de compilação separada e modularizaçã
 - Compilador C compatível com C11
 
 # Lista de operações implementadas 
-* Operações originais:
+- Operações originais:
 -soma.c;
 - subtrai.c;
 
-* Novas operações criadas:
+- Novas operações criadas:
 -multiplica.c;
 -divisao.c;
 -modulo.c;
 -minimo.c;
 
 # Como compilar os arquivos .c e .h
-Utilize o comando make.
+```bash
+make.
 
 # Como executar os arquivos
-Utilze os comandos make run ou ./main.
+```bash
+make run ou ./main.
 
 * Saídas Esperadas:
 - s = 10 - para operação de soma;
@@ -32,5 +34,6 @@ Utilze os comandos make run ou ./main.
 - s = 1  - para operação de mínimo (menor valor);
 
 # Como limpar
-Utilize o comando make clean.
+```bash
+make clean.
 Esse comando remove o executável e todos os arquivos objetos (.o).
