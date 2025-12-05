@@ -1,4 +1,4 @@
-# Compilação-Separada-em-C
+# Compilação Separada em C
 
 Este repositório demonstra o processo de compilação separada e modularização de código utilizando a linguagem C e Makefile.
 
