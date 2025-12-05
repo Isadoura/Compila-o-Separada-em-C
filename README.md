@@ -17,20 +17,20 @@ Este repositório demonstra o processo de compilação separada e modularizaçã
   modulo.c;
   minimo.c;
 
-  # Como compilar os arquivos .c e .h
-  Utilize o comando make.
+# Como compilar os arquivos .c e .h
+Utilize o comando make.
 
-  # Como executar os arquivos
-  Utilze os comandos make run ou ./main.
+# Como executar os arquivos
+Utilze os comandos make run ou ./main.
 
-  Saídas Esperadas:
-  s = 10 - para operação de soma;
-  s = 3  - para operação de subtração;
-  s = 12 - para operação de multiplicação;
-  s = 6  - para operação de divisão;
-  s = 2  - para operação de módulo (resto da divisão);
-  s = 1  - para operação de mínimo (menor valor);
+Saídas Esperadas:
+s = 10 - para operação de soma;
+s = 3  - para operação de subtração;
+s = 12 - para operação de multiplicação;
+s = 6  - para operação de divisão;
+s = 2  - para operação de módulo (resto da divisão);
+s = 1  - para operação de mínimo (menor valor);
 
-  # Como limpar
-  Utilize o comando make clean.
-  Esse comando remove o executável e todos os arquivos objetos (.o).
+# Como limpar
+Utilize o comando make clean.
+Esse comando remove o executável e todos os arquivos objetos (.o).
